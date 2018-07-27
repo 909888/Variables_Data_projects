@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Variables_DataTypes_Projecto\Variables_DataTypes_Projecto\obj\Debug\Variables_DataTypes_Projecto.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Variables_DataTypes_Projecto\Variables_DataTypes_Projecto\bin\Debug\Variables_DataTypes_Projecto.exe.config
+C:\Users\Student\source\repos\Variables_DataTypes_Projecto\Variables_DataTypes_Projecto\bin\Debug\Variables_DataTypes_Projecto.exe
+C:\Users\Student\source\repos\Variables_DataTypes_Projecto\Variables_DataTypes_Projecto\bin\Debug\Variables_DataTypes_Projecto.pdb
+C:\Users\Student\source\repos\Variables_DataTypes_Projecto\Variables_DataTypes_Projecto\obj\Debug\Variables_DataTypes_Projecto.exe
+C:\Users\Student\source\repos\Variables_DataTypes_Projecto\Variables_DataTypes_Projecto\obj\Debug\Variables_DataTypes_Projecto.pdb
+C:\Users\Student\source\repos\Variables_DataTypes_Projecto\Variables_DataTypes_Projecto\obj\Debug\Variables_DataTypes_Projecto.csprojAssemblyReference.cache
